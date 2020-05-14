@@ -16,7 +16,7 @@
    version="1.1"
    id="svg193"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="woty2.svg"
+   sodipodi:docname="0.0.1_octosol.svg"
    inkscape:export-filename="/home/doug/dev/wheelOfTheYear/woty2.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -310,11 +310,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50576304"
-     inkscape:cx="68.024528"
-     inkscape:cy="138.52736"
+     inkscape:zoom="0.71525695"
+     inkscape:cx="78.817993"
+     inkscape:cy="487.38234"
      inkscape:document-units="mm"
-     inkscape:current-layer="g2883-9-7"
+     inkscape:current-layer="svg193"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="741"
@@ -844,7 +844,7 @@
        cy="591.9483"
        cx="538.98657"
        id="path3169-1"
-       style="fill:url(#linearGradient3617);fill-opacity:1;stroke:#000000;stroke-width:0.15661524;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#linearGradient3617);fill-opacity:1;stroke:#000000;stroke-width:0.15661524;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:1"
        transform="rotate(-90)" />
     <circle
        r="7.4216924"
@@ -934,12 +934,10 @@
          x="-766.17004"
          y="1089.9832"
          transform="translate(148.06795,42.542965)"><textPath
-           style="stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:Charter;-inkscape-font-specification:Charter;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458332;stroke:none;stroke-opacity:1"
            xlink:href="#path3702-2-6"
            startOffset="50%"
-           id="textPath3711-5-8"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:Charter;-inkscape-font-specification:Charter;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-   id="tspan3704-2-7">Autumn</tspan></textPath></text>
+           id="textPath3711-5-8">Autumn</textPath></text>
     </g>
     <g
        transform="translate(-67.204102,-64.686981)"
