@@ -16,10 +16,10 @@ _A circular calendar focussed on displaying the 8 (cross-)quarter days of the su
 	- autumn
 - 8 solar/thermal intervals including (approximate) calendar date, symbol, common/special name
   - 4 quarter days
-    - winter solstice (Yule)
-    - spring equinox (Ostara)
-    - summer solstice (Litha)
-    - autumn equinox (Mabon)
+    - winter solstice 
+    - spring equinox 
+    - summer solstice 
+    - autumn equinox 
   - 4 cross-quarter days
     - 1st (Imbolc)
     - 2nd (Beltane)
@@ -32,7 +32,7 @@ _A circular calendar focussed on displaying the 8 (cross-)quarter days of the su
 - daylight/saving times
 - days of week
 - weeks
-- moon events (although nice, not _quite_ as important and a looot more complexity)
+- moon events (although nice, not _quite_ as important and a lot more complexity)
 
 ## Background
 For some time I've wanted to better celebrate the rhythms of the earth, sun and moon—the moon orbiting the earth and the earth spinning on its tilted axis while orbiting the sun. I want to remember that these celestial motions are happening, and I'm a tiny part of them. I find it easy to forget, and often imagine the universe revolves around me.
