@@ -1,6 +1,6 @@
 # Octosol
 
-_A circular calendar focussed on displaying the 8 (cross-)quarter days of the sun in the northern hemisphere and their relation to the seasons and months._
+![](https://gitlab.com/DougInAMug/octosol/-/raw/master/0.1.0_octosol.png)
 
 ## Should be
 - simple
