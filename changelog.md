@@ -1,3 +1,6 @@
+2022-05-08
+- change dates to natural language (06 -> 6th)
+
 # Comments on 0.1.0
 
 ## Changes from 0.0.1

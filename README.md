@@ -2,7 +2,7 @@
 
 A perpetual, circular, solar calendar for the northern hemisphere 🌞 Inspired by the ['Wheel of the Year'](https://en.wikipedia.org/wiki/Wheel_of_the_Year) 🌱 🍎 🍂 ❄ SVG via Inkscape ✒
 
-![](0.1.0_octosol.png)
+![](octosol.svg.png)
 
 ## Should be
 - simple
